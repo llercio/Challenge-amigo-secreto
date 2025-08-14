@@ -1,6 +1,10 @@
 ![Logo do jogo](https://github.com/user-attachments/assets/92846919-3a37-46c1-82d5-45508536017f)
 <br>
-# 💡 Perfeito para:
+# 🔗 Acesso ao projeto
+<p>Você pode acessar o projeto <a href="https://challenge-amigo-secreto-three-navy.vercel.app/">este link.</a>.</p>
+
+
+# Perfeito para:
 Festas de fim de ano, confraternizações, eventos familiares e qualquer ocasião que precise de um sorteio justo e divertido!
 # Tecnologias utilizadas:
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-Lógica de sorteio e manipulação do DOM-yellow?style=flat&logo=javascript&logoColor=yellow&logoSize=auto&labelColor=grey">
