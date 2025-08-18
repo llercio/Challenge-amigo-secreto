@@ -1,7 +1,7 @@
 ![Logo do jogo](https://github.com/user-attachments/assets/92846919-3a37-46c1-82d5-45508536017f)
 <br>
 # 🔗 Acesso ao projeto
-<p>Você pode acessar o projeto <a href="https://challenge-amigo-secreto-three-navy.vercel.app/">este link.</a>.</p>
+<p>Você pode acessar o projeto <a href="https://challenge-amigo-secreto-three-navy.vercel.app/">neste link.</a>.</p>
 
 
 # Perfeito para:
